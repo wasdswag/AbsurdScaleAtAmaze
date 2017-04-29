@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 72e47d07a299e4709a1acb465c169593
+timeCreated: 1493480324
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cylinder
+    100002: group_0
+    100004: ID113
+    100006: ID113 1
+    100008: ID113 2
+    100010: ID113 3
+    100012: ID113 4
+    100014: ID113 5
+    100016: ID113 6
+    100018: ID113 7
+    100020: ID113 8
+    100022: ID121
+    100024: ID121 1
+    100026: ID121 2
+    100028: ID121 3
+    100030: ID121 4
+    100032: ID121 5
+    100034: ID121 6
+    100036: ID121 7
+    100038: ID121 8
+    100040: ID125
+    100042: ID125 1
+    100044: ID125 2
+    100046: ID125 3
+    100048: ID125 4
+    100050: ID125 5
+    100052: ID125 6
+    100054: ID125 7
+    100056: ID125 8
+    100058: ID144
+    100060: ID144 1
+    100062: ID144 2
+    100064: ID144 3
+    100066: ID144 4
+    100068: ID152
+    100070: ID152 1
+    100072: ID152 2
+    100074: ID152 3
+    100076: ID152 4
+    100078: ID156
+    100080: ID156 1
+    100082: ID156 2
+    100084: ID156 3
+    100086: ID156 4
+    100088: ID17
+    100090: ID27
+    100092: ID50
+    100094: ID60
+    100096: ID70
+    100098: ID87
+    100100: ID95
+    100102: instance_0
+    100104: instance_1
+    100106: instance_10
+    100108: instance_11
+    100110: instance_12
+    100112: instance_13
+    100114: instance_2
+    100116: instance_3
+    100118: instance_4
+    100120: instance_5
+    100122: instance_6
+    100124: instance_7
+    100126: instance_8
+    100128: instance_9
+    100130: //RootNode
+    100132: skp_camera_Last_Saved_SketchUp_View
+    100134: sphere
+    100136: sphere 1
+    100138: Spike
+    100140: Spike 1
+    100142: Spike 10
+    100144: Spike 11
+    100146: Spike 12
+    100148: Spike 13
+    100150: Spike 2
+    100152: Spike 3
+    100154: Spike 4
+    100156: Spike 5
+    100158: Spike 6
+    100160: Spike 7
+    100162: Spike 8
+    100164: Spike 9
+    400000: cylinder
+    400002: group_0
+    400004: ID113
+    400006: ID113 1
+    400008: ID113 2
+    400010: ID113 3
+    400012: ID113 4
+    400014: ID113 5
+    400016: ID113 6
+    400018: ID113 7
+    400020: ID113 8
+    400022: ID121
+    400024: ID121 1
+    400026: ID121 2
+    400028: ID121 3
+    400030: ID121 4
+    400032: ID121 5
+    400034: ID121 6
+    400036: ID121 7
+    400038: ID121 8
+    400040: ID125
+    400042: ID125 1
+    400044: ID125 2
+    400046: ID125 3
+    400048: ID125 4
+    400050: ID125 5
+    400052: ID125 6
+    400054: ID125 7
+    400056: ID125 8
+    400058: ID144
+    400060: ID144 1
+    400062: ID144 2
+    400064: ID144 3
+    400066: ID144 4
+    400068: ID152
+    400070: ID152 1
+    400072: ID152 2
+    400074: ID152 3
+    400076: ID152 4
+    400078: ID156
+    400080: ID156 1
+    400082: ID156 2
+    400084: ID156 3
+    400086: ID156 4
+    400088: ID17
+    400090: ID27
+    400092: ID50
+    400094: ID60
+    400096: ID70
+    400098: ID87
+    400100: ID95
+    400102: instance_0
+    400104: instance_1
+    400106: instance_10
+    400108: instance_11
+    400110: instance_12
+    400112: instance_13
+    400114: instance_2
+    400116: instance_3
+    400118: instance_4
+    400120: instance_5
+    400122: instance_6
+    400124: instance_7
+    400126: instance_8
+    400128: instance_9
+    400130: //RootNode
+    400132: skp_camera_Last_Saved_SketchUp_View
+    400134: sphere
+    400136: sphere 1
+    400138: Spike
+    400140: Spike 1
+    400142: Spike 10
+    400144: Spike 11
+    400146: Spike 12
+    400148: Spike 13
+    400150: Spike 2
+    400152: Spike 3
+    400154: Spike 4
+    400156: Spike 5
+    400158: Spike 6
+    400160: Spike 7
+    400162: Spike 8
+    400164: Spike 9
+    2300000: cylinder
+    2300002: ID113
+    2300004: ID113 1
+    2300006: ID113 2
+    2300008: ID113 3
+    2300010: ID113 4
+    2300012: ID113 5
+    2300014: ID113 6
+    2300016: ID113 7
+    2300018: ID113 8
+    2300020: ID144
+    2300022: ID144 1
+    2300024: ID144 2
+    2300026: ID144 3
+    2300028: ID144 4
+    2300030: ID17
+    2300032: ID27
+    2300034: ID50
+    2300036: ID60
+    2300038: ID70
+    2300040: ID87
+    2300042: ID95
+    2300044: sphere
+    2300046: sphere 1
+    2300048: Spike
+    2300050: Spike 1
+    2300052: Spike 10
+    2300054: Spike 11
+    2300056: Spike 12
+    2300058: Spike 13
+    2300060: Spike 2
+    2300062: Spike 3
+    2300064: Spike 4
+    2300066: Spike 5
+    2300068: Spike 6
+    2300070: Spike 7
+    2300072: Spike 8
+    2300074: Spike 9
+    3300000: cylinder
+    3300002: ID113
+    3300004: ID113 1
+    3300006: ID113 2
+    3300008: ID113 3
+    3300010: ID113 4
+    3300012: ID113 5
+    3300014: ID113 6
+    3300016: ID113 7
+    3300018: ID113 8
+    3300020: ID144
+    3300022: ID144 1
+    3300024: ID144 2
+    3300026: ID144 3
+    3300028: ID144 4
+    3300030: ID17
+    3300032: ID27
+    3300034: ID50
+    3300036: ID60
+    3300038: ID70
+    3300040: ID87
+    3300042: ID95
+    3300044: sphere
+    3300046: sphere 1
+    3300048: Spike
+    3300050: Spike 1
+    3300052: Spike 10
+    3300054: Spike 11
+    3300056: Spike 12
+    3300058: Spike 13
+    3300060: Spike 2
+    3300062: Spike 3
+    3300064: Spike 4
+    3300066: Spike 5
+    3300068: Spike 6
+    3300070: Spike 7
+    3300072: Spike 8
+    3300074: Spike 9
+    4300000: sphere
+    4300002: ID17
+    4300004: ID27
+    4300006: sphere
+    4300008: ID50
+    4300010: ID60
+    4300012: ID70
+    4300014: cylinder
+    4300016: ID87
+    4300018: ID95
+    4300020: Spike
+    4300022: ID113
+    4300024: Spike
+    4300026: ID144
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

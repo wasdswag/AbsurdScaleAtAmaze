@@ -1,0 +1,50 @@
+newmtl Column
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd column.PNG
+
+newmtl Window
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd window.png
+map_d window.png
+
+newmtl Ledge
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd ledge.PNG
+
+newmtl Floor
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd floor.PNG
+
+newmtl Rim
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd rim.PNG
+
+newmtl Wall
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd wall.PNG
+
+newmtl Star
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd star.PNG
+
+newmtl LedgeSide
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd ledgeside.PNG
+
+newmtl DarkWall
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkwall.PNG
+
+newmtl DarkStar
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkstar.PNG

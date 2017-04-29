@@ -1,0 +1,21 @@
+Kirby Fighters Deluxe Butter Building Stage Recreation
+
+Model and a few textures made from scratch by Peardian using Cinema 4D and graphics from Kirby's Adventure.
+Sprites and tiles from Kirby's Adventure ripped by Jeremy aka Drshnaps.
+
+
+Info:
+This is a recreation of the Butter Building stage in Kirby Fighters Deluxe for the Nintendo 3DS.
+I love Kirby's Adventure, so I couldn't resist attempting to recreate the stage, which uses graphics straight from the NES game.
+I tried to be as accurate to the Fighters stage as possible while also filling in some gaps to make the model more useful.
+While most of the tiles are straight from KA, the floor, window, and upper platform are original.
+There are two versions of the model: one with shading and one without.
+The sky's cloud pattern isn't from any particular stage in KA, so it had to be recreated.
+The dimensions of the sky they use are weird, so I made a version that uses a full 512x256 space. I left in the original, too.
+I included sprites for the enemies and Kirby UFO, but I did not make models for them.
+
+
+If you have any comments or questions, my e-mail address is peardian@gmail.com
+
+
+Kirby's Adventure and Kirby Fighters Deluxe belong to Nintendo & HAL Laboratory, Inc.

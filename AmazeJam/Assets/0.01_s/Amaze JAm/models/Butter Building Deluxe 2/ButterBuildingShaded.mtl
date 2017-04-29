@@ -1,0 +1,140 @@
+newmtl DarkStar4
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkstar4.PNG
+
+newmtl DarkStar3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkstar3.PNG
+
+newmtl DarkStar2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkstar2.PNG
+
+newmtl DarkStar
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkstar.PNG
+
+newmtl DarkWall3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkwall3.PNG
+
+newmtl DarkWall2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkwall2.PNG
+
+newmtl DarkWall
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkwall.PNG
+
+newmtl Ledge4
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd ledge4.PNG
+
+newmtl Ledge3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd ledge3.PNG
+
+newmtl Ledge2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd ledge2.PNG
+
+newmtl Ledge
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd ledge.PNG
+
+newmtl LedgeSide
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd ledgeside.PNG
+
+newmtl Star4
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd star4.PNG
+
+newmtl Star3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd star3.PNG
+
+newmtl Star2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd star2.PNG
+
+newmtl Star
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd star.PNG
+
+newmtl Wall3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd wall3.PNG
+
+newmtl Wall2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd wall2.PNG
+
+newmtl Wall
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd wall.PNG
+
+newmtl Rim4
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd rim4.PNG
+
+newmtl Rim3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd rim3.PNG
+
+newmtl Rim2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd rim2.PNG
+
+newmtl Rim
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd rim.PNG
+
+newmtl Floor3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd floor3.PNG
+
+newmtl Floor2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd floor2.PNG
+
+newmtl Floor
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd floor.PNG
+
+newmtl Window
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd window.png
+map_d window.png
+
+newmtl Column
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd column.PNG

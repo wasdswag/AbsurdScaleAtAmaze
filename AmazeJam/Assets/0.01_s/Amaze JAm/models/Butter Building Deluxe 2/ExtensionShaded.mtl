@@ -1,0 +1,29 @@
+newmtl DarkWall3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkloop3.PNG
+
+newmtl DarkWall2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkloop2.PNG
+
+newmtl DarkWall
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkloop.PNG
+
+newmtl Wall3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd loop3.PNG
+
+newmtl Wall2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd loop2.PNG
+
+newmtl Wall
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd loop.PNG

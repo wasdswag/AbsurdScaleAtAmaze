@@ -1,0 +1,9 @@
+newmtl Loop
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd loop.PNG
+
+newmtl DarkLoop
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd darkloop.PNG
